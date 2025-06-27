@@ -1,4 +1,7 @@
-
+#Shamir Bhandari
+#6-27-2025
+#PLAB3
+#Change money efficently into dollors, Dimes, Nickels, And pennies
 
 money = float(input("Enter amount of money: "))
 
